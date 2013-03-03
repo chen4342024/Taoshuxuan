@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/334/taoshuxuan/TaoShuXuan/src/com/bookshop/util
+END
+MyServiceParent.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/307/taoshuxuan/TaoShuXuan/src/com/bookshop/util/MyServiceParent.java
+END
+MyAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/329/taoshuxuan/TaoShuXuan/src/com/bookshop/util/MyAuthenticator.java
+END
+CryptoUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/334/taoshuxuan/TaoShuXuan/src/com/bookshop/util/CryptoUtils.java
+END
+MyDaoParent.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/230/taoshuxuan/TaoShuXuan/src/com/bookshop/util/MyDaoParent.java
+END
+HompageAdUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/302/taoshuxuan/TaoShuXuan/src/com/bookshop/util/HompageAdUtil.java
+END
+StringUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/295/taoshuxuan/TaoShuXuan/src/com/bookshop/util/StringUtil.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/277/taoshuxuan/TaoShuXuan/src/com/bookshop/util/Base64.java
+END
+MyStringAppConfigs.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/230/taoshuxuan/TaoShuXuan/src/com/bookshop/util/MyStringAppConfigs.java
+END
+UtilCommon.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/293/taoshuxuan/TaoShuXuan/src/com/bookshop/util/UtilCommon.java
+END
+PageUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/230/taoshuxuan/TaoShuXuan/src/com/bookshop/util/PageUtil.java
+END
+DateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/306/taoshuxuan/TaoShuXuan/src/com/bookshop/util/DateUtil.java
+END
+SiteMapTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/275/taoshuxuan/TaoShuXuan/src/com/bookshop/util/SiteMapTag.java
+END

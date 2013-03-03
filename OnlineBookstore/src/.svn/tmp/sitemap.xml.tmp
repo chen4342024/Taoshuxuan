@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 配置文件说明， sitemap根节点,title是页面上显示的内容，
+	href是超链接，path是该请求页面的物理路径
+-->
+<sitemaps isroot="true">
+	<sitemap title="管理员后台首页" href="right.jsp" path="/admin/right.jsp">
+		<node  title="增加新员工" path="/admin/addStaff.jsp" href="addStaff.jsp"/>
+		
+	</sitemap>
+	
+<<<<<<< .mine
+	<sitemap title="员工后台首页" href="right.jsp">
+		<node  title="审核订单" path="/staff/audit_order.jsp" href="audit_order.jsp"/>
+		<node  title="发货" path="/staff/shipments.jsp" href="shipments.jsp"/>
+		<node  title="查看处理完成的订单" path="/staff/worked_order.jsp" href="worked_order.jsp"/>
+		<node  title="审核退货申请" path="/staff/audit_rejected.jsp" href="audit_rejected.jsp"/>
+		<node  title="确认收货完成交易" path="/staff/complete_rejected.jsp" href="complete_rejected.jsp"/>
+		<node  title="查看员工处理记录" path="/staff/show_handle_record.jsp" href="show_handle_record.jsp"/>
+		<node  title="个人信息管理" path="/staff/staff_personalInfo.jsp" href="staff_personalInfo.jsp"/>
+		<node  title="修改登录密码" path="/staff/changePassword.jsp" href="changePassword.jsp"/>
+=======
+	<sitemap title="员工后台首页" href="right.jsp" path="/staff/right.jsp">
+		<node  title="查看成绩" path="/staff/main.jsp" href="gainExamByTime.do"/>
+>>>>>>> .r279
+	</sitemap>
+</sitemaps>
+	

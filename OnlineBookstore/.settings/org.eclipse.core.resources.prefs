@@ -1,0 +1,26 @@
+#Wed Jul 04 09:06:29 CST 2012
+eclipse.preferences.version=1
+encoding//WebRoot/admin/js/addStaff.js=UTF-8
+encoding//WebRoot/admin/js/changePassword.js=UTF-8
+encoding//WebRoot/customer/personalCenter/js/myCollection.js=UTF-8
+encoding//WebRoot/customer/shoppingcart/checkout.jsp=UTF-8
+encoding//WebRoot/customer/shoppingcart/css/order_form.css=UTF-8
+encoding//WebRoot/customer/shoppingcart/css/shoppingcart.css=UTF-8
+encoding//WebRoot/customer/shoppingcart/css/unite_header.css=UTF-8
+encoding//WebRoot/customer/shoppingcart/js/area.js=UTF-8
+encoding//WebRoot/customer/shoppingcart/js/checkout.js=UTF-8
+encoding//WebRoot/customer/shoppingcart/js/jquery.js=UTF-8
+encoding//WebRoot/customer/shoppingcart/js/shopping.js=UTF-8
+encoding//WebRoot/customer/shoppingcart/shoppingcart.jsp=UTF-8
+encoding//WebRoot/customer/shoppingcart/submit_orders_success.jsp=UTF-8
+encoding//WebRoot/js/addBookToCart.js=UTF-8
+encoding//WebRoot/js/goods.js=UTF-8
+encoding//WebRoot/js/index.js=UTF-8
+encoding//WebRoot/staff/css/main.css=UTF-8
+encoding//WebRoot/staff/js/audit_order.js=UTF-8
+encoding//WebRoot/staff/js/audit_rejected.js=UTF-8
+encoding//WebRoot/staff/js/changePassword.js=UTF-8
+encoding//WebRoot/staff/js/search.js=UTF-8
+encoding//WebRoot/staff/js/setPage.js=UTF-8
+encoding//WebRoot/staff/js/shipments.js=UTF-8
+encoding//src/com/bookshop/util/CryptoUtils.java=UTF-8

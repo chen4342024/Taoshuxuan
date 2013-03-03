@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/306/taoshuxuan/TaoShuXuan/src/com/bookshop/dao
+END
+OrderDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/230/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/OrderDao.java
+END
+BookDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/306/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/BookDaoImpl.java
+END
+RejectedApplyDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/230/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/RejectedApplyDaoImpl.java
+END
+CollectionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/306/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/CollectionDaoImpl.java
+END
+PaymentMethodDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/230/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/PaymentMethodDao.java
+END
+StaffHandleRecordDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/230/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/StaffHandleRecordDao.java
+END
+CustomerDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/230/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/CustomerDaoImpl.java
+END
+CommentDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/230/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/CommentDaoImpl.java
+END
+StaffDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/230/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/StaffDaoImpl.java
+END
+PromotionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/230/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/PromotionDao.java
+END
+ShoppingRecordDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/306/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/ShoppingRecordDao.java
+END
+ShippingAddressDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/230/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/ShippingAddressDao.java
+END
+AdminDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/230/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/AdminDao.java
+END
+BookDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/306/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/BookDao.java
+END
+RejectedApplyDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/230/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/RejectedApplyDao.java
+END
+CatagoryDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/230/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/CatagoryDaoImpl.java
+END
+CollectionDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/306/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/CollectionDao.java
+END
+OrderDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/230/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/OrderDaoImpl.java
+END
+StaffHandleRecordDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/230/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/StaffHandleRecordDaoImpl.java
+END
+PaymentMethodDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/230/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/PaymentMethodDaoImpl.java
+END
+CustomerDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/230/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/CustomerDao.java
+END
+CommentDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/230/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/CommentDao.java
+END
+StaffDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/230/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/StaffDao.java
+END
+PromotionDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/230/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/PromotionDaoImpl.java
+END
+ShoppingRecordDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/306/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/ShoppingRecordDaoImpl.java
+END
+ShippingAddressDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/230/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/ShippingAddressDaoImpl.java
+END
+CatagoryDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/230/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/CatagoryDao.java
+END
+AdminDaoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/230/taoshuxuan/TaoShuXuan/src/com/bookshop/dao/AdminDaoImpl.java
+END

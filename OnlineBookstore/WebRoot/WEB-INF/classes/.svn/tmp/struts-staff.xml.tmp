@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+<struts>
+	<package name="struts-staff" extends="struts-default"> 
+<<<<<<< .mine
+		<action name="show_audit_order" class="orderAction" method="show_audit_order">
+			<result name="success">/staff/audit_order.jsp</result>
+			<result name="input"></result>
+		</action>
+=======
+		<!-- 添加员工 -->
+		<action name="addStaff" class="staffAction" method="addStaff">
+			<result name="success" type="chain">showStaff_by_page</result>	
+			<result name="input">/admin/fail.jsp</result>	
+		</action>
+		
+		<!-- 查找是否存在staff_id的员工 -->
+		<action name="findStaff" class="staffAction" method="findStaff">	
+					
+		</action>
+		
+		<!-- 分页显示staff信息 -->
+		<action name="showStaff_by_page" class="staffAction" method="showStaff_by_page">
+			<result name="success">/admin/showStaff.jsp</result>	
+			<result name="input">/admin/fail.jsp</result>		
+		</action>
+>>>>>>> .r279
+	</package> 
+</struts>

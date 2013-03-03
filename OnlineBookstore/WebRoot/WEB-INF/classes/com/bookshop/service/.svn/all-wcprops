@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/343/taoshuxuan/TaoShuXuan/src/com/bookshop/service
+END
+PaymentMethodService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/328/taoshuxuan/TaoShuXuan/src/com/bookshop/service/PaymentMethodService.java
+END
+StaffHandleRecordService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/307/taoshuxuan/TaoShuXuan/src/com/bookshop/service/StaffHandleRecordService.java
+END
+CustomerServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/329/taoshuxuan/TaoShuXuan/src/com/bookshop/service/CustomerServiceImpl.java
+END
+ShoppingCartServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/343/taoshuxuan/TaoShuXuan/src/com/bookshop/service/ShoppingCartServiceImpl.java
+END
+CommentServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/324/taoshuxuan/TaoShuXuan/src/com/bookshop/service/CommentServiceImpl.java
+END
+StaffServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/295/taoshuxuan/TaoShuXuan/src/com/bookshop/service/StaffServiceImpl.java
+END
+PromotionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/309/taoshuxuan/TaoShuXuan/src/com/bookshop/service/PromotionService.java
+END
+ShoppingRecordService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/306/taoshuxuan/TaoShuXuan/src/com/bookshop/service/ShoppingRecordService.java
+END
+ShippingAddressService.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/328/taoshuxuan/TaoShuXuan/src/com/bookshop/service/ShippingAddressService.java
+END
+AdminService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/323/taoshuxuan/TaoShuXuan/src/com/bookshop/service/AdminService.java
+END
+BookService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/306/taoshuxuan/TaoShuXuan/src/com/bookshop/service/BookService.java
+END
+CatagoryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/310/taoshuxuan/TaoShuXuan/src/com/bookshop/service/CatagoryServiceImpl.java
+END
+CollectionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/341/taoshuxuan/TaoShuXuan/src/com/bookshop/service/CollectionService.java
+END
+RejectedApplyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/307/taoshuxuan/TaoShuXuan/src/com/bookshop/service/RejectedApplyService.java
+END
+OrderServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/328/taoshuxuan/TaoShuXuan/src/com/bookshop/service/OrderServiceImpl.java
+END
+StaffHandleRecordServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/295/taoshuxuan/TaoShuXuan/src/com/bookshop/service/StaffHandleRecordServiceImpl.java
+END
+PaymentMethodServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/328/taoshuxuan/TaoShuXuan/src/com/bookshop/service/PaymentMethodServiceImpl.java
+END
+CustomerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/329/taoshuxuan/TaoShuXuan/src/com/bookshop/service/CustomerService.java
+END
+ShoppingCartService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/343/taoshuxuan/TaoShuXuan/src/com/bookshop/service/ShoppingCartService.java
+END
+CommentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/324/taoshuxuan/TaoShuXuan/src/com/bookshop/service/CommentService.java
+END
+StaffService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/307/taoshuxuan/TaoShuXuan/src/com/bookshop/service/StaffService.java
+END
+ShoppingRecordServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/306/taoshuxuan/TaoShuXuan/src/com/bookshop/service/ShoppingRecordServiceImpl.java
+END
+PromotionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/309/taoshuxuan/TaoShuXuan/src/com/bookshop/service/PromotionServiceImpl.java
+END
+CatagoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/309/taoshuxuan/TaoShuXuan/src/com/bookshop/service/CatagoryService.java
+END
+ShippingAddressServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/328/taoshuxuan/TaoShuXuan/src/com/bookshop/service/ShippingAddressServiceImpl.java
+END
+AdminServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/334/taoshuxuan/TaoShuXuan/src/com/bookshop/service/AdminServiceImpl.java
+END
+OrderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/328/taoshuxuan/TaoShuXuan/src/com/bookshop/service/OrderService.java
+END
+BookServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/324/taoshuxuan/TaoShuXuan/src/com/bookshop/service/BookServiceImpl.java
+END
+CollectionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/341/taoshuxuan/TaoShuXuan/src/com/bookshop/service/CollectionServiceImpl.java
+END
+RejectedApplyServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/307/taoshuxuan/TaoShuXuan/src/com/bookshop/service/RejectedApplyServiceImpl.java
+END

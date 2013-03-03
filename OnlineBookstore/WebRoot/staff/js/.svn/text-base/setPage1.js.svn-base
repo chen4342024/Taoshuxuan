@@ -1,0 +1,68 @@
+﻿
+function pageBackTo(page,url){
+   			if(page == 1){
+   				alert("已经是第一页了");
+   				return false;
+   			}else{
+   				page--;
+   				document.getElementById('pageBack').href=url+"&page="+page;
+   				return true;
+   			}
+}
+
+function pageNextTo(page,hasPages,url){
+   			if(page == hasPages){
+   				alert("已经是最后一页了");
+   				return false;
+   			}else{
+   				page++;
+   				document.getElementById('pageNext').href=url+"&page="+page;
+				return true;
+   			}
+}
+
+function pageFirst(page,url){
+	
+   			if(page == 1){
+   				alert("已经是第一页了");
+   				return false;
+   			}else{
+   				page = 1;
+   				document.getElementById('pageFirst').href=url+"&page="+page;
+   				return true;
+   			}
+}
+function pageLast(page,hasPages,url){
+   			if(page == hasPages){
+   				alert("已经是最后一页了");
+   				return false;
+   			}else{
+   				page = hasPages;
+   				document.getElementById('pageLast').href=url+"&page="+page;
+   				return true;
+   			}
+}
+
+function pageTo(url,select){
+	location.href = url+"&page="+select.value;
+}
+
+function changePerFolioAmount(newPerFolioAmount,url){
+	var perFolioAmount = document.getElementById('perFolioAmount').value;
+	if(newPerFolioAmount == perFolioAmount){
+		return false;
+	}
+	document.getElementById('setPerFolioAmount').href=url+"&perFolioAmount="+perFolioAmount;
+	return true;
+}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/339/taoshuxuan/TaoShuXuan/WebRoot/admin
+END
+main.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/331/taoshuxuan/TaoShuXuan/WebRoot/admin/main.jsp
+END
+showNotExpirePromotion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/309/taoshuxuan/TaoShuXuan/WebRoot/admin/showNotExpirePromotion.jsp
+END
+breadcrumbNavigation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/271/taoshuxuan/TaoShuXuan/WebRoot/admin/breadcrumbNavigation.jsp
+END
+addPaymentMethod.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/303/taoshuxuan/TaoShuXuan/WebRoot/admin/addPaymentMethod.jsp
+END
+table.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/270/taoshuxuan/TaoShuXuan/WebRoot/admin/table.jsp
+END
+bookClassify.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/299/taoshuxuan/TaoShuXuan/WebRoot/admin/bookClassify.jsp
+END
+left.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/309/taoshuxuan/TaoShuXuan/WebRoot/admin/left.jsp
+END
+showBook.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/299/taoshuxuan/TaoShuXuan/WebRoot/admin/showBook.jsp
+END
+showOrModifyNotExpirePromotion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/309/taoshuxuan/TaoShuXuan/WebRoot/admin/showOrModifyNotExpirePromotion.jsp
+END
+right_top.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/271/taoshuxuan/TaoShuXuan/WebRoot/admin/right_top.jsp
+END
+addPromotion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/309/taoshuxuan/TaoShuXuan/WebRoot/admin/addPromotion.jsp
+END
+top.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/270/taoshuxuan/TaoShuXuan/WebRoot/admin/top.jsp
+END
+showCustomer.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/303/taoshuxuan/TaoShuXuan/WebRoot/admin/showCustomer.jsp
+END
+addBook.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/309/taoshuxuan/TaoShuXuan/WebRoot/admin/addBook.jsp
+END
+showExpirePromotion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/309/taoshuxuan/TaoShuXuan/WebRoot/admin/showExpirePromotion.jsp
+END
+showStaff.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/303/taoshuxuan/TaoShuXuan/WebRoot/admin/showStaff.jsp
+END
+bottom.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/270/taoshuxuan/TaoShuXuan/WebRoot/admin/bottom.jsp
+END
+showOrModifyBook.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/309/taoshuxuan/TaoShuXuan/WebRoot/admin/showOrModifyBook.jsp
+END
+changePassword.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/284/taoshuxuan/TaoShuXuan/WebRoot/admin/changePassword.jsp
+END
+customerShoppingRecord.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/303/taoshuxuan/TaoShuXuan/WebRoot/admin/customerShoppingRecord.jsp
+END
+fail.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/279/taoshuxuan/TaoShuXuan/WebRoot/admin/fail.jsp
+END
+staffHandleOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/284/taoshuxuan/TaoShuXuan/WebRoot/admin/staffHandleOrder.jsp
+END
+addStaff.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/293/taoshuxuan/TaoShuXuan/WebRoot/admin/addStaff.jsp
+END
+right.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/302/taoshuxuan/TaoShuXuan/WebRoot/admin/right.jsp
+END
+showOrModifyStaff.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/339/taoshuxuan/TaoShuXuan/WebRoot/admin/showOrModifyStaff.jsp
+END
+showCustomerInfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/291/taoshuxuan/TaoShuXuan/WebRoot/admin/showCustomerInfo.jsp
+END
+showPaymentMethod.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/309/taoshuxuan/TaoShuXuan/WebRoot/admin/showPaymentMethod.jsp
+END
+staffHandleReturn.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/284/taoshuxuan/TaoShuXuan/WebRoot/admin/staffHandleReturn.jsp
+END
+addCatagory.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/299/taoshuxuan/TaoShuXuan/WebRoot/admin/addCatagory.jsp
+END
+customerCommentRecord.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/303/taoshuxuan/TaoShuXuan/WebRoot/admin/customerCommentRecord.jsp
+END

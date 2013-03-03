@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+<struts>
+	<package name="struts-staff" extends="struts-default"> 
+		<!-- 显示待审核订单 -->
+		<action name="show_audit_order" class="orderAction" method="show_audit_order">
+			<result name="success">/staff/audit_order.jsp</result>
+			<result name="input"></result>
+		</action>
+		<!-- 对订单进行操作 -->
+		<action name="audit_order" class="orderAction" method="audit_order">
+		</action>
+		<!-- 显示待发货的订单 -->
+		<action name="show_shipments_order" class="orderAction" method="show_shipments_order">
+			<result name="success">/staff/shipments.jsp</result>
+			<result name="input"></result>
+		</action>
+		<!-- 添加员工 -->
+		<action name="addStaff" class="staffAction" method="addStaff">
+			<result name="success" type="chain">showStaff_by_page</result>	
+			<result name="input">/admin/fail.jsp</result>	
+		</action>
+		
+		<!-- 查找是否存在staff_id的员工 -->
+<<<<<<< .mine
+		<action name="findStaff" class="staffAction" method="findStaff">	
+				
+=======
+		<action name="findStaff" class="staffAction" method="findStaff">						
+>>>>>>> .r284
+		</action>
+		
+		<!-- 切换员工状态 -->
+		<action name="changeStaffState" class="staffAction" method="changeStaffState">						
+		</action>
+		
+		<!-- 分页显示staff信息 -->
+		<action name="showStaff_by_page" class="staffAction" method="showStaff_by_page">
+			<result name="success">/admin/showStaff.jsp</result>	
+			<result name="input">/admin/fail.jsp</result>		
+		</action>
+		
+		<!-- 获取员工信息 -->
+		<action name="gainStaff" class="staffAction" method="gainStaff">
+			<result name="success">/admin/showOrModifyStaff.jsp</result>	
+			<result name="input">/admin/fail.jsp</result>		
+		</action>
+		
+		<!-- 修改员工信息 -->
+		<action name="ModifyStaff" class="staffAction" method="ModifyStaff">
+			<result name="success" type="chain">showStaff_by_page</result>		
+			<result name="input">/admin/fail.jsp</result>		
+		</action>
+
+	</package> 
+</struts>

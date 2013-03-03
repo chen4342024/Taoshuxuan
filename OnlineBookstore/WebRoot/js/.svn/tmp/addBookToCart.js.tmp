@@ -1,0 +1,22 @@
+$(document).ready(function () {
+	$('a.buy').click(function(){
+		var t = $(this);
+		$.ajax({
+			type: "POST",
+				url: "/TaoShuXuan/addBookToCart.do?book.book_id="+this.name,
+				dataType: 'text',
+				async: false,
+				error:function(data){	
+						alert("error");			
+				},
+				success: function(data){
+							
+					if((data=="success")){									
+						alert("已放入购物车");
+					}else{
+						alert("input")
+					}															
+			}		
+		});
+	});
+})

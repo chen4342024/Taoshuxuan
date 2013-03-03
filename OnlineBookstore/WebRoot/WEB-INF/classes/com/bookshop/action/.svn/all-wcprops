@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/343/taoshuxuan/TaoShuXuan/src/com/bookshop/action
+END
+ShoppingCartAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/343/taoshuxuan/TaoShuXuan/src/com/bookshop/action/ShoppingCartAction.java
+END
+CustomerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/329/taoshuxuan/TaoShuXuan/src/com/bookshop/action/CustomerAction.java
+END
+CommentAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/324/taoshuxuan/TaoShuXuan/src/com/bookshop/action/CommentAction.java
+END
+StaffAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/309/taoshuxuan/TaoShuXuan/src/com/bookshop/action/StaffAction.java
+END
+CatagoryAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/309/taoshuxuan/TaoShuXuan/src/com/bookshop/action/CatagoryAction.java
+END
+OrderAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/328/taoshuxuan/TaoShuXuan/src/com/bookshop/action/OrderAction.java
+END
+PaymentMethodAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/328/taoshuxuan/TaoShuXuan/src/com/bookshop/action/PaymentMethodAction.java
+END
+StaffHandleRecordAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/331/taoshuxuan/TaoShuXuan/src/com/bookshop/action/StaffHandleRecordAction.java
+END
+UploadUtilAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/309/taoshuxuan/TaoShuXuan/src/com/bookshop/action/UploadUtilAction.java
+END
+PromotionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/309/taoshuxuan/TaoShuXuan/src/com/bookshop/action/PromotionAction.java
+END
+ShoppingRecordAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/306/taoshuxuan/TaoShuXuan/src/com/bookshop/action/ShoppingRecordAction.java
+END
+ShippingAddressAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/331/taoshuxuan/TaoShuXuan/src/com/bookshop/action/ShippingAddressAction.java
+END
+AdminAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/323/taoshuxuan/TaoShuXuan/src/com/bookshop/action/AdminAction.java
+END
+BookAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/324/taoshuxuan/TaoShuXuan/src/com/bookshop/action/BookAction.java
+END
+RejectedApplyAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/307/taoshuxuan/TaoShuXuan/src/com/bookshop/action/RejectedApplyAction.java
+END
+CollectionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/341/taoshuxuan/TaoShuXuan/src/com/bookshop/action/CollectionAction.java
+END

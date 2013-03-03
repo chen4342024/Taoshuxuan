@@ -1,0 +1,12 @@
+#Sat Jun 30 01:28:35 CST 2012
+eclipse.preferences.version=1
+encoding//WebRoot/admin/js/addStaff.js=UTF-8
+encoding//WebRoot/admin/js/changePassword.js=UTF-8
+encoding//WebRoot/staff/css/main.css=UTF-8
+encoding//WebRoot/staff/js/audit_order.js=UTF-8
+encoding//WebRoot/staff/js/audit_rejected.js=UTF-8
+encoding//WebRoot/staff/js/changePassword.js=UTF-8
+encoding//WebRoot/staff/js/search.js=UTF-8
+encoding//WebRoot/staff/js/setPage.js=UTF-8
+encoding//WebRoot/staff/js/shipments.js=UTF-8
+encoding//src/com/bookshop/util/CryptoUtils.java=UTF-8
